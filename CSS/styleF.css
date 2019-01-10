@@ -8,6 +8,7 @@ body{
 }
 p{
 	width: 60%;
+	position: center;
 }
 header{
 	margin:0;
