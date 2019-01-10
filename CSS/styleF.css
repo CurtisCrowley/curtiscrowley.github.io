@@ -28,6 +28,9 @@ li{
 	padding: 10px;
 	box-shadow: 5px 10px rgba(100,100,100,50);
 }
+p{
+	width: 60%;	
+}
 #poster{
 	margin:1rem;
 }
