@@ -6,6 +6,9 @@ body{
 	text-align: center;
 	color: white;
 }
+p{
+	width: 60%;
+}
 header{
 	margin:0;
 	padding:20px;
@@ -28,10 +31,7 @@ li{
 	padding: 10px;
 	box-shadow: 5px 10px rgba(100,100,100,50);
 }
-p{
-	width: 60%;
-	text-align: center;
-}
+
 #poster{
 	margin:1rem;
 }
